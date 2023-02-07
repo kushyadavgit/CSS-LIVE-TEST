@@ -1,0 +1,66 @@
+body{
+
+    margin: 0%;
+}
+p{
+    margin: 0%;
+}
+.text{
+    border: 1px solid rgb(221, 220, 220);
+    text-align: center;
+    font-size: 31px;
+    width: 99.9%;
+    height: 426px;
+    background-color: rgba(231, 231, 231, 0.893);
+    margin-top: 2px;
+    color: rgba(38, 37, 37, 0.996);
+}
+
+.flex{
+
+    
+    display: flex;
+    flex-wrap: wrap;
+    width: 99.9%;
+    height: 377px;
+    align-content: center;
+}
+.box{
+
+    
+    width: 387px;
+    text-align: start;
+    margin-left: 77px;
+    margin-top: -19px;
+}
+#b1{
+
+    height: 274px;
+    line-height: 42px;
+    font-size: 22px;
+
+}
+.plc1{
+    height: 26px;
+    width: 283px;
+
+}
+.plc{
+    height: 32px;
+    width: 290px;
+    color: white;
+    background-color: darkgray;
+}
+#b2{
+
+    line-height: 28px;
+    font-size: 22px;
+
+}
+#b3{
+
+    line-height: 29px;
+    font-size: 22px;
+
+
+}
